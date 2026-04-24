@@ -5,7 +5,7 @@ const root = createRoot(document.querySelector("#root"))
 function Main () {
   return(
     <main>
-      <h1>Welcome to {import.meta.env.VITE_TITLE}</h1>
+      <h1>Welcome to {import.meta.env.VITE_NEW_TITLE}</h1>
       <img src={heroPng} alt="Hero" />
       <p>What's your favorite lofi track?</p>
     </main>
