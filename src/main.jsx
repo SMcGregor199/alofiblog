@@ -15,6 +15,7 @@ function Main () {
         <li>Track 4</li>
         <li>Track 5</li>
         <li>Track 6</li>
+        <li>Track 7</li>
 
 
         <li>Track 8</li>
